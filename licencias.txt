@@ -1,0 +1,5 @@
+# Licencias de Floristeria Web
+# Una linea por instalacion, con el formato:
+#   UUID=AAAA-MM-DD   (fecha hasta la que es valida la licencia)
+# Para renovar, cambia la fecha. Para revocar, borra la linea.
+# Este archivo es publico: no escribas nombres de clientes.
