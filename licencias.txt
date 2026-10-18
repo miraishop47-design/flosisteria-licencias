@@ -3,4 +3,4 @@
 #   UUID=AAAA-MM-DD   (fecha hasta la que es valida la licencia)
 # Para renovar, cambia la fecha. Para revocar, borra la linea.
 # Este archivo es publico: no escribas nombres de clientes.
-769c0df4-ddc2-4c37-a460-4b2a67220d18=2026-10-17
+769c0df4-ddc2-4c37-a460-4b2a67220d18=2026-10-14
