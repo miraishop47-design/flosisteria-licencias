@@ -4,3 +4,5 @@
 # Para renovar, cambia la fecha. Para revocar, borra la linea.
 # Este archivo es publico: no escribas nombres de clientes.
 769c0df4-ddc2-4c37-a460-4b2a67220d18=2026-10-25
+
+62204573-655d-4d7a-842f-eefd02168f67=2026-10-25
